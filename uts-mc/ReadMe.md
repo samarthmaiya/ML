@@ -1,6 +1,6 @@
 
-Step-1 : Down load the data from https://www.kaggle.com/blastchar/telco-customer-churn
+Focus of this project is highlight the internal implementation of Decision tree algorithm
+Data set considered here from https://www.kaggle.com/blastchar/telco-customer-churn
+predict customer churn based on customer previous information
 
-Step-2 : execute data-reprocesses.ipynb file , this will create pre-processed csv file by name 'pre-processesed churn.csv'
-
-Step-3 :
+Step to execute: execute churn_prediction.ipynb file 
